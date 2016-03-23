@@ -66,3 +66,6 @@ background-position:bottom !important;
     -ms-transform:rotate(360deg);
     transform:rotate(360deg);
 }
+.social-roll:active {
+    box-shadow: 0px 0px 5px 2px rgba(62, 101, 224, 0.7);
+}
